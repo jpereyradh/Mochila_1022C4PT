@@ -1,0 +1,8 @@
+git clone --> hace una copia de la ultima version del repositorio indicado
+git add . --> añade todos los cambios realizados
+git add nombreArchivo --> añade los cambios realizados en el archivo indicado
+git commit -m --> acepta los cambios y se le asigna un mensaje para identificar los cambios realizados
+git push origin rama --> para subir los cambios a la rama indicada en remoto
+git pull --> para descargar los cambios que estén en remoto a local
+git branch --> para crear una rama
+git checkout nombre rama --> para cambiarse de rama
