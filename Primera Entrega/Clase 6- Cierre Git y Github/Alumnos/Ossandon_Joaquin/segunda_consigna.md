@@ -1,5 +1,6 @@
 | Comando                             | descripcion                                                                     |
 | ----------------------------------- | ------------------------------------------------------------------------------- |
+| git init                            | Inicializa un repositorio git                                                   |
 | git remote add `<remote>` `<url>`   | Linkear el repositorio remoto con un nombre en base a una url                   |
 | git clone `<url>`                   | Clona un repositorio desde la nube basado en la URL                             |
 | git add .                           | Para colocarle el estado tracked y que github tome los cambios                  |
