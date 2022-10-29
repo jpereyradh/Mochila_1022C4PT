@@ -15,6 +15,7 @@ con los desarrolladores que trabajan en esos servicios, ver sus necesidades y of
 
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
 SourceTree simplifica la forma en que interactúa con sus repositorios
 de Git para que pueda concentrarse en la codificación.
 Permite visualizar y administrar sus repositorios a través de una sencilla

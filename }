@@ -1,0 +1,152 @@
+[33mcommit 51935e608b40390a0fa24654fb0f4431ba457ab3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d7cd830 cbceebd
+Author: Dalpataco <cartasegna@gmail.com>
+Date:   Sat Oct 29 01:01:33 2022 -0300
+
+    Merge branch 'main' of https://github.com/jpereyradh/Mochila_1022C4PT
+
+[33mcommit d7cd8308d50a8ecf92782e9af5bfaf3390af651f[m[33m ([m[1;32mdev[m[33m, [m[1;32mcartasegna_juan[m[33m)[m
+Author: Dalpataco <cartasegna@gmail.com>
+Date:   Sat Oct 29 00:48:10 2022 -0300
+
+    primera entrega
+
+[33mcommit cbceebdb66a0889d7dad5c87c7d6c2c8174d3969[m
+Merge: b167f90 bbd5230
+Author: Jhonnypax <116609392+Jhonnypax@users.noreply.github.com>
+Date:   Fri Oct 28 22:47:16 2022 -0500
+
+    Merge pull request #2 from jpereyradh/Juan_Camilo_Paez
+    
+    Primer commit
+
+[33mcommit bbd5230531a281b5358a243a9174da74373ea0bc[m
+Author: Jhonnypax <paezmesajuancamilo@gmail.com>
+Date:   Fri Oct 28 22:29:35 2022 -0500
+
+    Primer commit
+
+[33mcommit b167f90be2a091612c2ba323d7f6918c2078b9a9[m
+Merge: 328e65d ca3b8ee
+Author: rofaba <97056237+rofaba@users.noreply.github.com>
+Date:   Fri Oct 28 23:54:45 2022 -0300
+
+    pull all
+
+[33mcommit 328e65d540d7bd91148140330d47da5c55c87853[m
+Author: rofaba <97056237+rofaba@users.noreply.github.com>
+Date:   Fri Oct 28 23:53:16 2022 -0300
+
+    update
+
+[33mcommit ca3b8eef9eb76168261469548b00255a61d1d0f4[m
+Author: rofaba <97056237+rofaba@users.noreply.github.com>
+Date:   Fri Oct 28 23:50:01 2022 -0300
+
+    Delete Primera Entrega/Clase 6- Cierre Git y Github/Alumnos/Faure_Rodrigo directory
+
+[33mcommit 6ea4f1a866a057f70bc873ccb2dd26836553148a[m
+Author: JJmartinez95 <jjmartinezd18@gmail.com>
+Date:   Fri Oct 28 21:46:13 2022 -0500
+
+    Jerson
+
+[33mcommit a903aa0852a398951c277c12963bcb5b54d30e47[m
+Author: JJmartinez95 <jjmartinezd18@gmail.com>
+Date:   Fri Oct 28 21:43:29 2022 -0500
+
+    Jerson
+
+[33mcommit a232fe339fe1bca510fd4cef6d5118adb194ad5f[m
+Author: JJmartinez95 <jjmartinezd18@gmail.com>
+Date:   Fri Oct 28 21:40:46 2022 -0500
+
+    MochilaJerson21
+
+[33mcommit 339d84b4e557824720e10b2cce43708a65fbed80[m
+Author: JJmartinez95 <jjmartinezd18@gmail.com>
+Date:   Fri Oct 28 21:35:05 2022 -0500
+
+    MochilaJerson
+
+[33mcommit cc40f15e388328b368f5f0ede9b8a43deb26ce06[m
+Author: rofaba <97056237+rofaba@users.noreply.github.com>
+Date:   Fri Oct 28 23:16:04 2022 -0300
+
+    Delete Git_y_Github_Faure_Rodrigo directory
+
+[33mcommit 377467b8413e5572b52a87bcdd7102d20e5fd89f[m
+Merge: 11d8636 043af34
+Author: rofaba <97056237+rofaba@users.noreply.github.com>
+Date:   Fri Oct 28 23:13:43 2022 -0300
+
+    update
+
+[33mcommit 11d8636e2425abadde03648a6f86ee0caad813de[m
+Author: rofaba <97056237+rofaba@users.noreply.github.com>
+Date:   Fri Oct 28 23:00:29 2022 -0300
+
+    add mochila individual
+
+[33mcommit 043af34c161b356189937086fc42702a2730efe5[m
+Merge: ec7516b b9a87d6
+Author: Oscar Bolaños <69918011+symbiotik007@users.noreply.github.com>
+Date:   Fri Oct 28 20:46:57 2022 -0500
+
+    Merge pull request #1 from jpereyradh/oscar_bolaños_c4
+    
+    Práctica Individual Obligatoria - oscar_bolaños_c4
+
+[33mcommit b9a87d6a51ca3d9d1d016f7a75d23f969767b63c[m[33m ([m[1;31morigin/oscar_bolaños_c4[m[33m)[m
+Author: ob-instaleap <69918011+symbiotik007@users.noreply.github.com>
+Date:   Fri Oct 28 20:46:15 2022 -0500
+
+    Práctica Individual Obligatoria - oscar_bolaños_c4 v3
+    
+    Práctica Individual Obligatoria - oscar_bolaños_c4 v3
+
+[33mcommit 10ecfdd182d9a262683f2063a7d8a2593a9180b2[m
+Author: ob-instaleap <69918011+symbiotik007@users.noreply.github.com>
+Date:   Fri Oct 28 20:43:15 2022 -0500
+
+    Práctica Individual Obligatoria - oscar_bolaños_c4 v2
+    
+    Práctica Individual Obligatoria - oscar_bolaños_c4 v2
+
+[33mcommit cf6732df9e47f65aa577fb4da19abde511f8ab4e[m
+Author: ob-instaleap <69918011+symbiotik007@users.noreply.github.com>
+Date:   Fri Oct 28 20:38:50 2022 -0500
+
+    Create Git_y_Github_Bolaños_Oscar.pdf
+
+[33mcommit 4406bef464ea2a719342343259bbe289b7736133[m
+Author: ob-instaleap <69918011+symbiotik007@users.noreply.github.com>
+Date:   Fri Oct 28 20:28:36 2022 -0500
+
+    Práctica Individual Obligatoria - oscar_bolaños_c4
+    
+    Práctica Individual Obligatoria - oscar_bolaños_c4
+
+[33mcommit ec7516b89f9c1e83fca68da315528eb7bef729e6[m
+Author: Andresrb03 <andres.rojas@towertechamericas.co>
+Date:   Fri Oct 28 20:22:56 2022 -0500
+
+    Primer commit
+
+[33mcommit d2a6c86f6dce78743a66b46ccc73f4f2171f0fe3[m
+Author: jpereyradh <jorge.pereyra@digitalhouse.com>
+Date:   Fri Oct 28 17:45:18 2022 -0300
+
+    C6
+
+[33mcommit 6121d918622f83a63f24f037c9a589da5fab8bda[m
+Author: jpereyradh <86933169+jpereyradh@users.noreply.github.com>
+Date:   Fri Oct 28 17:51:54 2022 -0300
+
+    Update README.md
+
+[33mcommit 4db9bb77b662150601857061d4e3c2c9b3389abf[m
+Author: jpereyradh <86933169+jpereyradh@users.noreply.github.com>
+Date:   Fri Oct 28 17:51:12 2022 -0300
+
+    Initial commit
