@@ -1,0 +1,6 @@
+El creador de el sistema de control de versiones es Linus Trovalds y su proposito es llevar registro del cambio de los archivos y coordinar el trabajo que varias personas realizan sobre los mismos.
+
+
+Github pertenece actualmente a Microsoft ya que fue adquirido por ellos en junio de 2018 por una suma cercana a 7500 millones de dolares.
+
+Se puede trabajar con github a traves de algun editor de codigo como Visual Studio Code y no solamente con la terminal.
