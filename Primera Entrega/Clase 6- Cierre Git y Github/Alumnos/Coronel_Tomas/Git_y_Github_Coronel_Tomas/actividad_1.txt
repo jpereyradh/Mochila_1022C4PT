@@ -1,0 +1,4 @@
+1) El creador de git es Linus Torvalds, y lo creo para tener una herramienta de software que monitorea y gestiona cambios en un sistema de archivos.
+2) El actual dueño de GitHub es Microsoft, y lo compro para poder competir contra su rival Amazon que tiene AWS
+3) Si, se puede trabajar con Visual Studio Code
+
