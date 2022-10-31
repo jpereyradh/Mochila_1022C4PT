@@ -4,8 +4,8 @@ Git es un software de control de versiones diseñado por Linus Torvalds, porque 
 
 2. A quién pertenece actualmente GitHub y por qué?
 
-Github pertenece a Microsoft quién pagó 7500 millones de dólares en 2018,
+Github pertenece a Microsoft quién pagó 7500 millones de dólares en 2018, luego de que Github estuviera en problemas financieros.
 
 3. Hay otra forma que no sea la terminal para trabajar en Github?
 
-Sí. Por ejemplo, a través de interfaces gráficas. Poe ej. En su integración con VSC u aplicaciones externas como GitHub Desk o Sourcetree.
+Sí. Por ejemplo, a través de interfaces gráficas, como en su integración con VSC o aplicaciones externas como GitHub Desk o Sourcetree.
