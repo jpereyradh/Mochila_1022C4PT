@@ -1,0 +1,13 @@
+comandos mas utilizados en git:
+git init: inicia un repositorio local
+git add: agrega cambios realizados
+git commit: realiza un commit
+git remote add: sincroniza el repositorio local con github
+git push origin main: sube la informacion al repositorio remoto, especificamente a la rama main
+git pull origin main: trae la informacion del repositorio remoto al repositorio local
+git clone: clona el repositorio remoto a tu dispositivo
+git branch: crea una rama en el repositorio
+git checkout (nombre de la rama): sirve para cambiar entre ramas
+git user.name: debes colocar el nombre de usuario de github para que git te reconozca
+git user.email: debes colocar el email registrado en github para que git te reconozca
+
