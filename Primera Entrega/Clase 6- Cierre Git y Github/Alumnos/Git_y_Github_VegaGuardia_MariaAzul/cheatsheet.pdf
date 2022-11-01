@@ -1,0 +1,10 @@
+git init: Crea el repositorio
+git config user.name "nombreUsuario": Agrega nuestra identidad
+git config user.email "emailUsuario": Agrega nuestro e-mail
+git remote add origin "enlace/link repo remoto": Apunta el repositorio remoto
+git add .: Agrega todos los archivos
+git commit -m "mensaje" : Comitea los cambios hechos
+git push origin main: Envia los cambios al repositorio remoto
+git status: Realiza un seguimiento de los estados de los archivos
+git pull: Descarga los cambios que existen en el repositorio remoto
+git clone "linkDelRepo": Clonamos el repositorio en nuestra maquina
