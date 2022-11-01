@@ -1,0 +1,8 @@
+- git init (crea repo)
+- git add . (añade todos los archivos)
+- git commit -m "asunto" (commitea los archivos)
+- git push (pushea los archivos al repo creado)
+- git clone "enlace" (sirve para clonar un repo remoto al local)
+- git pull (actualiza los archivos)
+- git checkout -b "nombre" (crea rama y me lleva a ella)
+
