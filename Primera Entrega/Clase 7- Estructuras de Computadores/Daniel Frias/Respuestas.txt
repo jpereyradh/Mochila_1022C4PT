@@ -1,0 +1,4 @@
+- La AMD Ryzen 5 3600 es para Matilda
+- La AMD A8 9600 es para el hermano mayor
+- El Intel i3 3230 es para el hermano menor
+
