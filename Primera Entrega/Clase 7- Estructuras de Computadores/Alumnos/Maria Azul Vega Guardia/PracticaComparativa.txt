@@ -1,0 +1,3 @@
+Matilda: Amd a8 9600
+Hermano pequeño, Marcelo: intel i3 3230
+Hermano mayor: Amd Ryzen 5 3600
