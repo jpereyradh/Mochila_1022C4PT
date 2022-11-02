@@ -1,0 +1,3 @@
+a. Linus Torvalds, el conocido arquitecto del kernel del sistema operativo Linux, desarrolló por primera vez Git, un proyecto de código abierto establecido y mantenido activamente, en 2005.
+b. Microsoft compro github y le pertenece ya que al dedicarse al desarrollo lo utliza como una fuente para este proposito 
+c. Las otras formas es usando el gitbash y la otra es usando visual code.
