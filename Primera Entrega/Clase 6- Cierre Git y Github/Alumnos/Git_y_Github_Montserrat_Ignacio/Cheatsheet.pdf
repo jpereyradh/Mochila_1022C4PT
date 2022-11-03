@@ -1,0 +1,15 @@
+Configurar git
+Configurar nombre de usuario
+$ git config user.name "xxxxxxx"
+Configurar emai√l
+$ git config user.email "xxxxxx"
+
+
+Iniciar un proyecto 
+
+Inicializar git
+$ git init
+Descargar un repositorio
+$ git clone <url>
+
+
