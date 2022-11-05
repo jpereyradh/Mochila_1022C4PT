@@ -1,0 +1,59 @@
+GAMA BAJA
+
+1. procesador: Core i3 7100
+placa: Placa Madre Asus H110M-D
+ram: Ram Samsung Ddr4 Dimm 2133mhz 4gb M378a5143dbo
+Memoria secundaria: 
+Disco sólido SSD interno Western Digital WD Green WDS120G2G0A 120GB
+
+2. procesador: Ryzen 3 2200g
+placa: Motherboard Asus Prime A320m-k
+ram: Ram Samsung Ddr4 Dimm 2133mhz 4gb M378a5143dbo
+Memoria secundaria: 
+Disco sólido SSD interno Western Digital WD Green WDS120G2G0A 120GB
+
+3. procesador: Intel Pentium Gold G6400
+placa: Gigabyte H470M DS3H
+Memoria secundaria: 
+Disco sólido SSD interno Western Digital WD Green WDS120G2G0A 120GB
+
+
+GAMA MEDIA
+
+1. Procesador:Intel® Core™ i5-10400 6-Core 2.9 GHz 
+placa: Gigabyte B460-HD3
+memoria principal:2x HyperX HX426C16FB3 8GB
+memoria secundaria: SSD Crucial BX500 de 500 GB 
+GPU: GeForce GT 1030 2GD4 LP OC
+
+2. Procesador: AMD Ryzen 5 3600
+placa: A320M Asrock
+memoria principal: 2x HyperX HX426C16FB3 8GB
+memoria secundaria: SSD Crucial BX500 de 500 GB 
+GPU: GeForce GT 1030 2GD4 LP OC
+
+3. Procesador:Intel® Core™ i5-10600
+placa: Gigabyte B460-HD3
+memoria principal:2x HyperX HX426C16FB3 8GB
+memoria secundaria: SSD Crucial BX500 de 500 GB 
+GPU: GeForce GT 1030 2GD4 LP OC
+
+GAMA ALTA
+1. Procesador:Intel® Core™ i7-10700
+placa: Gigabyte B460-HD3
+memoria principal:2x HyperX HX426C16FB3 8GB
+memoria secundaria: SSD Crucial BX500 de 500 GB 
+GPU: GeForce RTX 2070
+
+2. Procesador:Amd Ryzen t 3800 xt
+placa: Gigabyte B550 AORUS ELITE
+memoria principal: 2x Kingston KF426C16BB1 16GB 
+memoria secundaria: Kingston NV1 SNVS/1000G 1000GB
+GPU: GeForce rtx 2070
+
+3. Intel Core i9-13900K
+ROG Maximus Z790 Extreme
+KF426C32BB1 32GB
+NVME 2TB
+GeForce RTX 4090
+
