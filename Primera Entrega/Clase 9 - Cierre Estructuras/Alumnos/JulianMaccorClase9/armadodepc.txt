@@ -1,0 +1,61 @@
+GAMA BAJA - INTEL
+Procesador: Core i3 7100
+Placa Madre: H110-D
+Memoria Principal: Ram Samsung Ddr4 Dim 2133mhz 4gb M378a5143dbo
+Memoria Secundaria: Disco Solido SSD Interno Western Digital WD Green
+
+GAMA BAJA - AMD
+Procesador: Ryzen 3 2200g 
+Placa Madre: Motherboard Asus Prime A320m-k Am4 Ddr4 Amd A320 HDMI
+Memoria Principal: Ram Samsung Ddr4 Dim 2133mhz 4gb M378a5143dbo
+Memoria Secundaria: Disco Solido SSD Interno Western Digital WD Green
+
+GAMA BAJA - LIBRE
+Procesador: Intel Pentium Gold G6400
+Placa Madre: Intel H470M - DS3H
+Memoria Principal: Ram Samsung Ddr4 Dim 2133mhz 4gb M378a5143dbo
+Memoria Secundaria: Disco Solido SSD Interno Western Digital WD Green
+
+GAMA MEDIA - INTEL
+Procesador: Core i5-10400
+Placa madre: Gigabyte B460-HD3
+Memoria principal: 2x HyperX HX426C16FB3 8GB
+Memoria secundaria: Crucial SSD BX500 500 GB 
+GPU: GeForce GT 1030 2GD4 LP OC
+
+GAMA MEDIA - AMD
+Procesador: AMD Ryzen 5 3600 
+Placa madre: A320M Asrock
+Memoria principal: 2x HyperX HX426C16FB3 8GB
+Memoria secundaria: Crucial SSD BX500 500 GB
+GPU: GeForce GT 1030 2GD4 LP OC
+
+GAMA MEDIA LIBRE
+Procesador: Core i5-10600
+Placa madre: Gigabyte B460-HD3
+Memoria principal: 2x HyperX HX426C16FB3 8GB
+Memoria secundaria: Crucial SSD BX500 500 GB 
+GPU: GeForce GT 1030 2GD4 LP OC
+
+GAMA ALTA - INTEL
+
+Procesador: Core i7-10700
+Placa madre: Gigabyte B460-HD3
+Memoria principal: 2x HyperX HX426C16FB3 8GB
+Memoria secundaria: Crucial SSD BX500 500 GB 
+GPU: GeForce RTX 2070
+
+GAMA ALTA - AMD
+
+Procesador: Amd Ryzen 7 3800xt
+Placa madre: Gigabite B550 AORUS ELITE
+Memoria principal: 2x Kingston KF426C16BB1 16GB
+Memoria secundaria: Kingston NV1 SNVS/1000G 1000GB
+GPU: GeForce RTX 2070
+
+GAMA ALTA LIBRE
+Procesador: Intel Core i9-13900K
+Placa madre: ROG Maximus Z790 Extreme
+Memoria principal: KF426C32BB1 32GB
+Memoria secundaria: NVME 2TB
+GPU: GeForce RTX 4090
