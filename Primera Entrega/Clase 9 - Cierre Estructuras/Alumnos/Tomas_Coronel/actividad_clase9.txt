@@ -1,0 +1,11 @@
+Gama Baja: Intel i3 7100 - h110 - 4gb Ram - 1 TB HDD
+	   ryzen 3 2200g - AM4 a320 - 4gb RAM - 1TB HDD
+	   Intel Celeron G5905	- H510 - 1TB HDD - 8GB RAM	
+
+Gama Media: i3 10110 - a320m - 16gb RAM - 1TB HDD - gt 1030
+	    ryzen 5 1600 - Asrock A320M - 240GB M.2 SDD - 1TB HDD - GTX 1660 Super
+	    intel i5 8400 - asrock h110m - 240gb SDD - 1TB HDD - GTX 1060 6gb
+
+Gama Alta: i7 10700 - B560M - 32GB RAM - M.2 1TB SDD - RTX 3070ti
+	   Ryzen 3800xt - B450m-plus - 32GB RAM - M.2 1TB SDD - RTX 4090
+	   i9 10900k - Asrock Z590 - 128GB RAM - M.2 2TB SDD - RTX 4090
