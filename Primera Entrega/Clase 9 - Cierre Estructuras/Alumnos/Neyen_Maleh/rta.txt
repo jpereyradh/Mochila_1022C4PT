@@ -1,0 +1,67 @@
+Gama Alta
+- AMD Ryzen 7 3800XT 4.7GHz
+- Asus Tuf Gaming B450m-plus Ii Hdmi Dvi Am4
+- Nvidia MSI Ventus GeForce RTX 30 Series RTX 3060 GEFORCE RTX 3060 VENTUS 2X 12G OC
+- RAM Fury Beast DDR4 gamer color negro 32GB
+- Fuente Redragon 500W 80 Plus Bronze GC-PS00
+
+
+Gama Alta
+- Procesador Intel Core i7 10700 4.8GHz Turbo Socket 1200 Comet Lake
+- Mother Gigabyte B560M-DS3H AC Socket 1200 10th Gen
+- Memoria Team DDR4 32GB 2666MHz T-Force Delta RGB Black CL18
+- ASUS GeForce RTX 3070 Ti 8GB GDDR6X TUF OC
+- Disco Solido SSD M.2 Crucial 1TB P3 3000MB/s NVMe PCI-E x4
+- Fuente Cooler Master 800W 80 Plus Gold G800
+
+gama alta INTEL:
+-Procesador Intel Core I9 10900
+-Mother Chipset H510M
+-Memoria Ram DDR4 16gb
+-Disco Solido 480GB
+-Gabinete Kit Gaming Black Design
+
+Gama Media
+
+- AMD Ryzen 5 1600 Six-Core Processor 3.20 GHz
+- Mother Asrock A320M-HDV R4.0 Ryzen M-ATX
+- Zotac GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan
+- Disco Rígido WD 1TB BLUE 64MB SATA 6.0GB/s
+- Disco Solido SSD M.2 WD 240GB Green SN350 2400MB/s NVMe PCI-Express x4
+- Fuente Redragon 500W 80 Plus Bronze GC-PS00
+
+Gama media
+
+-Procesador: INTEL CORE I3-10105 3.7/4.4GHZ 4 NUCLEOS 6MB BOX.
+-Video: Intel UHD 630
+-Motherboard (LGA1200): GIGABYTE H410M H V3**
+-Placa de red: GAMING LAN 1GB
+-Memoria (1x8): DDR4 8GB 2666MHZ PATRIOT 1,2V.
+-Disco Rígido sólido (SSD): 240GB GIGABYTE.
+-Gabinete: MAGNUM TECH - USB Frontal x 2.
+-Fuente: 500W
+
+Gama Media
+
+- Intel Core i3-10100 4.3GHz
+- Mother Asrock A320M-HDV R4.0 Ryzen M-ATX
+- GeForce GT 1030 2gD4 LP OC
+- Disco Rígido WD 1TB BLUE 64MB SATA 6.0GB/s
+- Fuente Redragon 500W 80 Plus Bronze GC-PS00
+- RAM DDR4 16GB 3200MHz T-Force Delta RGB Black CL16-20-20-40
+	
+
+
+Gama baja intel i3 7100 - h110 - 4gb RAM - 1TB
+
+Gama baja
+
+Procesador Intel Celeron G5905
+Motherboard H510 
+1tb 
+RAM 4gb
+
+
+Gama BAJA
+
+ ryzen 3 2200g - AM4 a320 - 4gb RAM - 1TB
