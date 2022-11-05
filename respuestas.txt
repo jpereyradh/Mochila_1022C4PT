@@ -1,0 +1,8 @@
+a. Quíen inventó git y por qué?
+Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, poruqe permite revisar los cambios de un proyecto, revertir esos cambios, crear cambios paralelos sin afectar el proyecto original y poder trabajar en simultaneo con tu equipo.
+
+b.A quién pertenece actualmente? 
+ Actualmente pertenece a Microsoft que lo compró en el 2018.
+
+c.Formas de trabajar con github?
+Se puede trabajar desde Visual estudio code
