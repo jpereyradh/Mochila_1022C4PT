@@ -1,0 +1,67 @@
+Equipo 2 (Marjorie Lagos, Abel Limachi, Christian Palma, Ezequiel Blason, David Molina)
+
+Gama baja - Intel
+Procesador Core i3 7100
+Motherboard  asus h110m -d
+Memoria Principal Ram Samsung Ddr4 Dimm 2133mhz 4gb M378a5143dbo
+Memoria Secundaria Disco Duro Sólido SSD interno Western Digital WD
+
+Gama baja - AMD
+
+Procesador ryzen 3 2200g
+Motherboard Asus Prime A320m-k
+Memoria Principal Samsung DDR4 2133mhz 4gb m378a5143dbo
+Memoria Secundaria Western Digital WD Green WDS120G0A
+
+
+Gama baja - 3° opción
+Procesador Intel pentium gold g6400
+Motherboard  intel h470m-ds3h
+Memoria Principal Samsung DDR4 2133mhz 4GB M378A5143DB0
+Memoria Secundaria Western Digital WD Green WDS120G2GUA
+
+
+Gama media - Intel
+Procesador  Intel® Core™ i5-10400 6-Core 2.9 GHz
+Motherboard Gigabyte B460-HD3
+Memoria Principal 2X HyperX HX426C16FB3 8GB
+Memoria Secundaria CRUCIAL SSD BX500 500GB
+GPU GeForce GT 1030 2GD4 LP OC
+
+
+Gama media - AMD
+Procesador AMD Ryzen 5 3600
+Motherboard Asrock A320M
+Memoria Principal 2x HyperX HX426C16FB3 8GB
+Memoria Secundaria CRUCIAL SSD  BX500 500GB
+
+Gama media - eleccion
+Procesador Core i5-10600
+Motherboard Gigabyte B460-HD3
+Memoria Principal 2x HyperX HX426C16FB3 8GB
+Memoria Secundaria CRUCIAL SSD BX500 500GB
+GPU Geforce GT 1030 2GD4 LP OC
+
+Gama alta - Intel
+Procesador Core i7-10700
+Motherboard Gigabyte B460-HD3
+Memoria Principal 2x HyperX HX426C16FB3 8GB
+Memoria Secundaria CRUCIAL SSD BX500 500GB
+GPU GeForce RTX 2070
+
+Gama alta - AMD
+Procesador AMD Ryzen 7 3800XT
+Motherboard Gigabyte b550 aorus elite
+Memoria Principal 2x Kingston KF426C16BB1 16GB
+Memoria Secundaria Kingston NV1 SNVS/1000G 1000GB
+GPU GeForce RTX 2070
+
+Gama alta - elección
+Procesador Intel core i9-13900k
+Motherboard Rog Maximus Z790 EXTREME
+Memoria Principal KF426C32BB1 32GB
+Memoria Secundaria NVME 2TB
+GPU GeForce RTX 4090
+
+
+
