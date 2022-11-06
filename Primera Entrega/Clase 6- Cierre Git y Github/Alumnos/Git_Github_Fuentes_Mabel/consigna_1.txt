@@ -1,0 +1,3 @@
+1) El creador de git es Linus Torvalds, y lo creo para tener una herramienta de software que monitorea y gestiona cambios en un sistema de archivosy ayuda a los desarrolladores a resolver conflictos.
+2) El actual dueño de GitHub es Microsoft, La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más.
+3) Si, se puede trabajar con Visual Studio Code o usar github desktop.
