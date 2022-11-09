@@ -1,0 +1,13 @@
+1- Linux lite es un SO amistoso para aquellos usuarios que utilizan linux por primera vez. Esta basado en Ubuntu LTS y tiene como principal objetivo a los usuarios de Windows. Apunta a proveer un set completo de aplicaciones que asistan al usuario con sus necesidades de todos los dias, incluido un suit de office completo, reproductores media y otros softwares esenciales.
+
+2- Linux Lite es Open Source
+
+3- Requerimientos Mínimos para Linux Lite de 64 bits
+Memoria RAM: 768 MB o más; Disco Duro: 8GB o más; Resolución VGA: 1024X768; Medios: Unidad de DVD o Puerto USB para correr la imagen ISO.
+
+4- Para ingresar a la terminal se utiliza CTRL + ALT + T
+
+5- No se puede instalar aplicaciones ya que no esta permitido por el Host del MV
+
+6- No hay juegos instalados
+
