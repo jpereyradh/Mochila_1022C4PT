@@ -1,0 +1,7 @@
+
+Actividad
+
+1. El lenguaje de programación FORTRAN (FORmula TRANslation) de tipo compilado es uno de los más usados en el mundo. Además fue desarrollado por IBM en 1957 para el equipo IBM 704.
+2. Fortran está orientado a los cálculos científicos y numérico. Al día de hoy, la comunidad científica sigue usando Fortran ya que se usa para evaluar el desempeño de las supercomputadoras más rápidas del planeta.
+3. Para escribir un programa FORTRAN, podemos usar cualquier editor de texto estándar: vi, pico, emacs, kwrite, gedit, etc.
+4. Librerías de uso general: Fortran Standard Library (más conocida) , BeFoR64, coretran, erloff, fdict, ferror, ffhash, FGSL, entre otros.
