@@ -1,0 +1,11 @@
+Ruby
+
+Lenguaje de programación interpretado, sintaxis inspirada en Python.
+Se utiliza principalmente para el desarrollo de aplicaciones Web.
+Uno de sus principales frameworks es Ruby on rails.
+La sintaxis en Ruby es muy sencilla
+x = 5
+y = 4
+z = x + y
+puts z
+Se imprimiría 9 en consola
