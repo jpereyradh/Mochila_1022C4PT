@@ -2,6 +2,10 @@
 Actividad
 
 1. El lenguaje de programación FORTRAN (FORmula TRANslation) de tipo compilado es uno de los más usados en el mundo. Además fue desarrollado por IBM en 1957 para el equipo IBM 704.
+   Por otra parte, el lenguaje de programación PERL no es compilador ni un intérprete, está en un punto intermedio cuando se manda a ejecutar un programa en PERL, se compila el código fuente a un código intermedio en memoria que se optimiza como si se fuera a elaborar un programa ejecutable pero es ejecutado por un motor, como si se tratara de un intérprete. Es un lenguaje de programación basado en scripts portable a casi cualquier plataforma.
 2. Fortran está orientado a los cálculos científicos y numérico. Al día de hoy, la comunidad científica sigue usando Fortran ya que se usa para evaluar el desempeño de las supercomputadoras más rápidas del planeta.
+   Por otra parte, PERL es utilizado para escribir CGIs, gestionar tareas de administración de sistemas, es un lenguaje optimizado para el escaneo de texto arbitrario de ficheros. 
 3. Para escribir un programa FORTRAN, podemos usar cualquier editor de texto estándar: vi, pico, emacs, kwrite, gedit, etc.
-4. Librerías de uso general: Fortran Standard Library (más conocida) , BeFoR64, coretran, erloff, fdict, ferror, ffhash, FGSL, entre otros.
+   En el programa PERL, podemos usar Komodo Edit como editor de texto (es de código abierto y gratuito).
+4. Librerías de uso general FORTRAN : Fortran Standard Library (más conocida) , BeFoR64, coretran, erloff, fdict, ferror, ffhash, FGSL, entre otras.
+   Librerías de uso general PERL: Módulo de Perl, ExtUtils, MakeMaker, CGI.pm, entre otras.
