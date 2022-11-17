@@ -1,0 +1,55 @@
+Ruby:
+
+Ruby es un lenguaje de programacion interpretado y orientado a objetos.
+Se utiliza pricipalmente en el desarrollo de aplicaciones web como Airbnb, SoundCloud o Twitch.
+Tambien se puede utilizar para el desarrollo de programas Desktop y aplicaciones orientadas al Back-End
+
+Existen varios editores de texto, entre ellos los mas utilizados son:
+
+-RubyMine
+-Atom
+-VIM
+-Sublime Text
+-Visual Studio Code
+
+El Framework mas utilizado en este lenguaje es Ruby on Rails o RoR que permite crear prototipos funcionales de manera fácil y rápida ademas de ofrecer una gran estabilidad y solidez a tus proyectos
+
+Para realizar una operacion matematica basica en Ruby basta simplemente con definir las variables y realizar la operacion.
+Luego, a traves del comando "Print" se ordena imprimir por pantalla el resultado
+---------
+
+x=4
+y=5
+
+z = (x+y)
+
+print z
+
+
+Node:
+
+Node.js es un entorno en tiempo de ejecución multiplataforma basado en el lenguaje de JavaScript, por ende puede decirse que es de tipo interpretado.
+
+Node es utilizado para el desarrollo de diferentes tipos de aplicaciones como por ejemplo:
+
+-Aplicaciones de transimision de datos
+-Aplicaciones intensivas de datoes en tiempo real
+-Aplicaciones de pagina unica
+-Aplicaciones basadas en JSON:API
+
+Los editores de texto mas usados para Node.js son:
+
+-Komodo IDE
+-Code Runner
+-Cloud9
+-Sublime Text
+-Atom
+
+Para llevar adelante una sumatoria en Node.js se debe definir las variables a traves de la declaracion "let", y posterior imprimir por pantalla el resultado con un "console.log"
+
+-----------
+let x = 4
+let y = 5
+let z = (x+y)
+
+console.log(z)
