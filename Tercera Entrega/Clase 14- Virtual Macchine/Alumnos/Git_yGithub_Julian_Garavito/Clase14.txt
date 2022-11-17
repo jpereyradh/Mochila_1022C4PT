@@ -1,0 +1,65 @@
+Por cada uno de los lenguajes asignados por mesa deberán realizar los siguientes 
+puntos:
+● ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+Lenguaje 1 C#: El tipo de ejecución es compilado
+Lenguaje 2 php: Es un lenguaje interpretado
+● ¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+Lenguaje 1 C#:C# es un lenguaje diseñado para su uso en .NET, cuyo objetivo de esta plataforma es crear aplicaciones de forma sencilla. 
+Por tanto, este lenguaje se utiliza para diseñar aplicaciones en esta plataforma.
+Lenguaje 2 php:es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+● ¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una 
+librería o framework famoso del mismo.
+Lenguaje 1 C#: Microsoft visual studio
+Lenguaje 2 php:
+● Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática: 
+○ x = 4
+○ y = 5 
+○ z = x + y
+○ mostrar por pantalla z
+Lenguaje 1 C#: using System;
+
+namespace MyCompiler {
+    class Program {
+        public static void Main(string[] args) {
+            Console.WriteLine("Practica C# - Lenguaje 01!");
+                    int x = 4;
+        int y = 5; 
+        int z = x+y;
+        Console.WriteLine("El resultado de la suma es: "+ z);
+        }
+
+    }
+}
+Lenguaje 2 php: <?php
+
+echo "Practica Lenguaje 02 - PHP!\n";
+
+    $x = 4;
+	$y = 5; 
+	$z = $x + $y; 
+	print("El resultado de la suma de los nros es: $z"); 
+
+<?=?>
+
+● Opcional: Crea un código que te parezca interesante o que quieras 
+compartir con tus compañeros.
+Haciendo clic en los iconos podrás dirigirte a la web mencionada por cada 
+lenguaje. Una vez resuelto, comparte los resultados con tus compañeros y 
+compañeras!!
+
+PHP: <?php
+
+echo "Practica Lenguaje 02 - PHP!\n";
+    
+    $x = [0,1,2,3,4,5,6,7,8,9]; 
+    foreach ($x as $dato){
+        if (($dato % 2) == 0) {
+        //Es un número par
+        echo "$dato es un número par "."\n";
+            } else {
+            //Es un número impar
+        echo "$dato es un número impar "."\n";
+        }
+    }
+
