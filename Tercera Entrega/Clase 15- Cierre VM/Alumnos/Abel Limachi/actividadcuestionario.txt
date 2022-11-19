@@ -1,0 +1,21 @@
+Cuestionario
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+	Todos los lenguajes de programación comparten algunas características sin renunciar a sus identidades individuales. Algunos de ellos tienen una aplicación más generalista mientras que otros brillan por sí solos. La evolución de los ordenadores ha llevado a la creación de cientos de diferentes lenguajes de programación para varios tipos de desarrollo. Los lenguajes de programación han sido clasificados según los siguientes criterios:
+
+		. clasificación histórica: a medida que surgían nuevos lenguajes que permitían nuevos estilos de programación más expresiva, se distinguieron dichos estilos en una serie de generaciones, cada una representando lenguajes de programación surgidos en una época similar y con características genéricas comunes.
+
+		. Lenguajes de alto y de bajo nivel: se clasican en dos amplias categorías que se refieren a su "nivel de abstracción", es decir, en cuanto a lo específico o general que es respecto a la arquitectura de computación inherente al sistema que se está utilizando.
+		
+		. Clasificación por paradigmas: los paradigmas de programación distinguen distintos modelos de cómputo y de estilos de estructurar y organizar las tareas que debe realizar un programa. Un lenguaje de programación puede ofrecer soporte a uno o varios paradigmas de programación, total o parcialmente.
+
+		. Clasificación por propósito: se distingue los lenguajes de propósito general de aquellos de propósito específico.
+
+
+En ocasiones, los lenguajes de programación son clasificados en familias que comparten ciertas características comunes como el estilo general de la sintaxis que emplean. Estas características suelen ser heredadas de lenguajes de programación anteriores que sirvieron de inspiración a los creadores de dicho lenguajes.
+
+
+	 Una máquina virtual es un software de virtualización para arquitecturas x86/amd64. A través de la máquina virtual, es posible instalar sistemas operativos adicionales dentro de otro sistema operativo "anfitrión", cada uno con su propio ambiente virtual. 
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe ¿esto afecta a las demás? ¿por qué?
+
+	No, si una de ellas falla no afecta al funcionamiento del resto de las máquinas virtuales. Cada máquina virtual es totalmente independiente de las demás, por lo cual cada una de ellas puede ejecutar diferentes sistemas operativos y/o aplicaciones, aunque al mismo tiempo se encuentran dentro de un solo equipo físico.
