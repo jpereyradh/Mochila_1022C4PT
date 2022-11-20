@@ -1,0 +1,4 @@
+1 - Los lenguajes de programacion pueden utilizarse en diferentes sistemas operativos siempre que se tenga un editor de texto
+2 - Es una maquina virtual de sistemas
+3 - No afecta a las demás debido a que están en ubicaciones diferentes
+
