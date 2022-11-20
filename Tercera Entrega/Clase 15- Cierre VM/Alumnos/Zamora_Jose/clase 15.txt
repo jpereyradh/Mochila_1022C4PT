@@ -1,0 +1,5 @@
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sistema operativo cambia la definición de la interrupción o el llamado de esta; por ejemplo en Windows para mostrar en pantalla usas la interrupción 21 (si no mal recuerdo), y en Linux me parece que es la 10 (si recuerdo bien), lo cual hace los ejecutables finales incompatibles entre sistemas operativos.
+
+VirtualBox es una maquina virtual de sistemas, ya que permite emular diferentes sistemas operativos, ademas esto permite un entorno de seguridad ya que si por alguna cicunstancia se rompe una maquina virtual esto no afecta el funcionamiento de otras al ser un espacio de trabajo aislado.
