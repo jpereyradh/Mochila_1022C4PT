@@ -1,0 +1,28 @@
+1_ Swift y Rust son un lenguaje compilado.
+
+2_ Rust se utiliza para el desarrollo interno de un navegador y puede usarse como una herramienta para crear API´s, clientes HTTP o conexión de base de datos.
+
+Swift se utiliza para se trata de un protocolo que sirve para que las entidades financieras se comuniquen entre sí a la hora de realizar transferencias internacionales, entre otros servicios. 
+
+3_ Utilizamos Swift en AppCode Smart IDE de JetBrains para desarrollar rápidamente aplicaciones Swift. Usamos AppCode porque ofrece una refactorización y una finalización de código superiores y se integra bien con C, Objective C y C ++.
+
+En Rust se utiliza Visual Studio Code que sigue siendo el IDE más utilizado para el desarrollo de Rust, seguido de CLion e IntelliJ IDEA.
+
+4_ Swift 
+var x = 4
+var y = 5
+var z = x + y
+print(z)
+Rust
+fn main() { 
+    let x = 4;
+    let y = 5;
+    let z = x + y ; 
+  println!("La suma es: {}", z);
+}
+
+5_
+let personas = ["Anna": 67, "Beto": 8, "Jack": 33, "Sam": 25]
+ for (nombre, edad) in personas {
+     print("\(nombre) tiene \(edad) años de edad.")
+ }
