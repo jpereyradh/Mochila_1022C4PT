@@ -1,0 +1,10 @@
+1-Linus Torvald, el creador de Linux, fue quien también creo el sistema de 
+control de versiones Git, fue ideado con el fin de permitir a los usuarios 
+trabajar de manera colaborativa, haciendo fácil y óptimo el trabajo en 
+equipo al desarrollar software.
+
+2-Github pertenece a microsoft, representa un paso más en la inclinación 
+de la empresa para enfocarse todo lo posible en el desarrollo. 
+
+3-Se puede trabajar desde la web o con la versión de escritorio.
+ 
