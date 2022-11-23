@@ -11,7 +11,12 @@ Oracle VM VirtualBox (conocido generalmente como VirtualBox) es un software de v
  para arquitecturas x86/amd64. Actualmente es desarrollado por Oracle Corporation como parte 
 de su familia de productos de virtualización.
 
-3_Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás?
+3_¿Qué función cumple el hypervisor en la virtualización?
+Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales
+ invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el 
+procesamiento.
+
+4_Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás?
 ¿por qué?
 No.
 Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias 
