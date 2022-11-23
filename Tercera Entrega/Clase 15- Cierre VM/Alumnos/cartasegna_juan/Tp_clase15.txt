@@ -1,0 +1,18 @@
+1_PREGUNTA 1:
+
+El motivo por el cual un lenguage de programacion solo puede utilizarse en algunos sist. operativos, se debe porque
+un lenguaje de programación compila al lenguaje ensamblador, el cual es ejecutado por
+el sistema operativo, este lenguaje ensamblador depende de la arquitectura del
+ procesador y la interpretación que le de el sistema operativo.
+Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+2_PREGUNTA 2:
+
+Oracle VM VirtualBox es un software de virtualización  para arquitecturas x86/amd64.
+Actualmente es desarrollado por Oracle Corporation como parte de su familia de productos de virtualización.
+
+3_PREGUNTA 3:
+
+El motivo por el cual si tengo más de una maquina virtual instalada y una se rompe, no afectaría a la demás, se debe a que:
+las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada.
+Si una de ellas falla,  no afectará al funcionamiento de las otras
