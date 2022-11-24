@@ -1,0 +1,20 @@
+Que es un usuario root en linux ?
+Es el usuario cuyo nombre de inicio es root, tiene caracteristicas especiales. Creado durante la instalacion:
+El usuario root es el unico usuario predeterminado que crea el programa de instalacion. La contraseña es root.
+
+Porque ubuntu no me deja establecer la contraseña durante la instalacion?
+Se supone que no se debe modifica las contraseña del usuario root, para utilizar privilegio de root
+podemos ejecutar comandos anadiendo sudo, gksu palabra clave al inicio de cualquier comando.
+
+Cuales son los procesos tipicos de Linux y como identificarlos?
+Hay dos tipos de procesos en Linux, normal y en tiempo real. Los procesos en tiempo real tienen una prioridad mas alta que los demas.
+Los procesos ejecutan programas en su host Linux que realizan operacines como escribir en un disco, o ejecutar un servidor web.
+
+Cambiar contraseña usuario root
+
+Abre la Terminal (Control + Alt + T)
+Teclea (sin comillas) "sudo su"
+Introduce tu clave actual
+Teclea "passwd root" y escribe tu nueva clave
+Pulsa enter y cierra la terminal.
+
