@@ -1,0 +1,11 @@
+Dirección IP publica: 192.111.2.2
+
+Dirección IP privada: 192.111.3.3
+
+Máscara de subred: 255.255.255.0
+
+Dirección MAC: 5A-EA-7A-8A-7A-6A
+
+Son de clase C
+
+Puedo obtener el nombre del fabricante
