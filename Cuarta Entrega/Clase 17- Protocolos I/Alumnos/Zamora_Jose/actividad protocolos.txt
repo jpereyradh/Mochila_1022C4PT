@@ -1,0 +1,6 @@
+Direccion Publica:186.105.34.146
+Direccion Privada:192.168.1.93
+Mascara Subred:255.255.255.0
+Direccion Mac:E8-D0-FC-A9-D4-35
+Marca de placa:Liteon Technology Corporation
+Ambas dirrecciones son de clase C
