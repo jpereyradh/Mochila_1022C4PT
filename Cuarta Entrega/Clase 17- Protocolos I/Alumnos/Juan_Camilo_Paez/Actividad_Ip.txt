@@ -1,0 +1,15 @@
+1. Direccion de Ip publica: 186.29.126.31
+
+2. Direccion de Ip Privada y su mascara de subred:
+ 
+        Ip privada: 192.168.56.1 
+        Mascara de subred: 255.255.255.0
+
+3. Direccion MAC: 48-A4-72-C1-9B-21
+
+4. Âde que clase son la Ip publica y privada?
+
+        La Ip publica: Clase B
+        La Ip privada: Clase C  
+
+5. Marca de red: Intel Corporate
