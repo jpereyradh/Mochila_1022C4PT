@@ -1,0 +1,14 @@
+Que direcciones necesitamos averiguar :
+
+*Direccion Ip Publica
+ 63.45.12.34
+*Direccion Privada
+ 192.168.1.16
+*Mascara Subred
+ 255.255.255.0
+*Direccion Mac
+ A0-A8-CD-07-A2-BF Corporativo de Intel 
+
+
+
+
