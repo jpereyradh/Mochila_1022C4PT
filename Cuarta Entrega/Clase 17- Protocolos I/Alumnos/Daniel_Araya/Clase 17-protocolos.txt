@@ -1,0 +1,27 @@
+Tarea Padlet
+
+https://padlet.com/PedagogiaDH/n6oepfr95p8stihj
+
+
+
+
+
+1 Que direcciones necesitamos averiguar :
+● Dirección IP Pública
+● Dirección IP Privada y su Máscara de subred
+● Dirección MAC
+
+IP Publica ......................:179.56.92.200
+IPv4 Address. . . . . . . . . . . : 192.168.1.6   /  Subnet Mask . . . . . . . . . . . : 255.255.255.0
+Physical Address. . . . . . . . . : A0-B3-CC-7E-6C-F7
+
+2 ¿ La IP pública y privada de qué clase son ?
+
+Clase B: 172.16.0.0 a 172.31.255.255
+Las IP pública y privada son clase B
+
+3 ¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+A0-B3-CC-7E-6C-F7
+Hewlett Packard
