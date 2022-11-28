@@ -1,0 +1,22 @@
+MESA 14
+Descripción de S.O
+Inicialmente fue comercializado como un sistema operativo para servidores y empresas que mantenían una estructura de servidores. Este tipo de software está orientado al entorno empresarial. Además, Red Hat es instalado con un ambiente gráfico llamado Anaconda. La versión 8.0 fue la primera en incluir el entorno de escritorio gráfico Bluecurve. Por otra parte, se identifica la ventaja de brindar un excelente rendimiento, seguridad, escalabilidad y disponibilidad. 
+
+¿Es open source o con licencia?
+Es open source.
+
+¿Cuáles son los recursos de Hard que tiene la MV?
+20 GB de Disco Duro libres
+Tarjeta de red
+8 GB de RAM
+CPU de 16 núcleos, 2,66 GHz
+
+¿Cómo se accede a la ventana de comandos?
+Se hace click izquierdo sobre el escritorio y se abre la terminal, otra forma es
+entrando en aplicaciones/Favoritos y terminal.
+
+¿Puedo instalar aplicaciones?¿Por qué?
+Si, la forma de hacerlo es a través de la terminal, utilizo los comandos, por ejemplo, sudo, apt-get o dpkg, entre otros.
+
+¿Hay juegos instalados?
+Si, como Tux Racer, Chess, entre otros.
