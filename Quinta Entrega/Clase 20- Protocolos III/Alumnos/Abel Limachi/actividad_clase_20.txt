@@ -1,0 +1,10 @@
+
+Actividad Clase 20
+
+1. ¿Las ip públicas son las mismas? ¿por qué?
+    No, en los browsers Tor y Opera, los ip públicas son diferentes. Aunque se observa  en el browser Opera el cambio de país al activar el vpn, el item País es Estados Unidos(vpn activado). En cambio, se observa en el browser opera sin vpn o tor, el item país es Argentina.
+2. Sin utilizar la VPN puedes ver el siguiente vídeo?Ahora activala e intenta verlo,¿que es lo que sucedió?¿Por qué?
+   Sin utilizar la VPN no puedo visualizar el vídeo, YT me avisa que el vídeo no está disponible en Argentina. En cambio, si activo el vpn y el proveedor es Opera Mini Proxy, Estados Unidos. La red VPN permite acceder a las páginas web de manera privada. Me permite desbloquear vídeos sin restricciones geográficas en Youtube.
+
+   No, no figura el país y en la columna proxy el valor es no. 
+
