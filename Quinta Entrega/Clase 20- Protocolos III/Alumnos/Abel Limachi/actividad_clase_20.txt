@@ -10,3 +10,9 @@ Actividad Clase 20
 
 ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
 Si, son diferentes. Existen muchas razones por las cuales los resultados de velocidad en los test son dispares. Pero, una razón por la cual los test de velocidad son diferentes es debido a la ubicación del servidor al que nos conectamos. Para determinar la fiabilidad del test de velocidad, si nuestra posición está alejada de los servidores que usamos, peor será la velocidad de conexión obtenida en el test. Este aspecto que no podemos corregir.
+
+¿Que significa el valor del ping?
+Es el resultado obtenido, un valor que se corresponde con los milisegundos que tardan en comunicarse servidor y dispositivo. 
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+si, en opera con vpn el valor de ping fue de 3*2; en cambio, opera sin vpn fue de 22. A menor latencia, menos tiempo tardan en conectarse el servidor y el dispositivo.
