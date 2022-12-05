@@ -1,0 +1,6 @@
+Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+- Esto se debe a la forma como esta constituida la estructura del lenguaje y que no todos los sistemas operativos son capaces de interpretar, existen leguajes que son dependientes de la estructura del procesador por lo que un programa escrito en unlenguaje podria no compilar en otr tipo de procesador o sistema operativo diferente.
+Que tipo de maquina virtual es VirtualBox?
+- Es una maquina vitual de sistemas.
+Si tengo mas de una maquina virtual instalada y una se rompe, esto afecta a las demas? por que?
+- No, no afecta a las demas porque ofrece una separacion completa del sistema.
