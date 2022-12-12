@@ -1,0 +1,20 @@
+● Dirección IP Pública: 
+
+Sitio consultado: What's my IP address
+	- 174.03.160.23
+
+● Dirección IP Privada y su Máscara de subred
+ 	- Dirección IPv4: 192.168.0.5	
+	- Máscara de subred: 255.255.255.0
+
+
+● Dirección MAC: 
+
+	- Dirección física: 80-C2-A3-A2-A2-2A
+
+
+● ¿La IP pública y privada de qué clase son ? 
+	- La IP publica es clase B: 128.0.0.0 a 191.255.255.255.
+	- La IP privada es clase C: 255.255.255.0 (este ultimo host)
+
+	- La marca de placa de red que tengo: Intel Corporate
