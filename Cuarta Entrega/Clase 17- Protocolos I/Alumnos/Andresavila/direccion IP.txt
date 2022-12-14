@@ -1,0 +1,10 @@
+- Direccion IP publica
+  192.168.1.1
+- Direccion IP privada y mascara subred
+  192.168.1.245
+  255.255.255.0
+- Direccion MAC
+  88-78-73-D6-ED-FE
+
+La direccion y mascara son clase 3, y la mac es del fabricante (intel corporate)
+
