@@ -1,0 +1,12 @@
+-Fedora es un popular sistema operativo de código abierto basado en Linux. Fedora está diseñado como un sistema operativo seguro y de propósito general. El sistema operativo se desarrolla en un ciclo de lanzamiento de seis meses, bajo los auspicios del Proyecto Fedora. Fedora está patrocinado por Red Hat.
+Está basado en Red Hat Linux. Esta fue la distribución principal basada en RPM que comenzó todo. Debutó en 1995 y siguió publicándose hasta 2003, cuando el último lanzamiento, RHL 9, marcó la muerte de RHL y el nacimiento del proyecto Fedora.
+Fedora comenzó como Fedora Core y se hizo cargo de los repositorios y las líneas de desarrollo de RHL. Es un proyecto comunitario, pero fue patrocinado por Red Hat desde el principio. Tuvimos 7 lanzamientos de Fedora Core, antes de que se fusionaran los repositorios Core y Extra del sistema, y ​​se convirtió en Fedora.
+- Fedora es open source
+-CPU: 1 GHz.
+RAM: 4 GB.
+Disco duro: 20 o 30 GB.
+Conexión a Internet opcional.
+Tarjeta gráfica compatible con VGA.
+-Presionando Alt + F2 se muestra un cuadro para introducir un comando.
+-Se puede instalar aplicaciones a travez de comandos en la terminal.
+-si viene con juegos instalados.
