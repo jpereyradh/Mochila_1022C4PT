@@ -1,0 +1,9 @@
+Crear
+Clonar un repositorio existente
+$git clone ssh://usuario@domain.como/repo.git
+Crear un repositorio local
+$git init
+Agregar archivos
+git add .
+Guardar cambios
+git commit -m "mensaje"
