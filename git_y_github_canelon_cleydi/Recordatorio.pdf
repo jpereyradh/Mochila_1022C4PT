@@ -1,0 +1,30 @@
+Comandos más utilizados en git:
+
+- git init: Se utiliza para iniciar un repositorio local.
+
+- git clone: Se usa para clonar un repositorio y si es un repositorio remoto, se coloca git clone más el url del repositorio de github
+
+- git add: se usa para agregar archivos al área de preparación y se puede agregar un . si quieres agregar todos los archivos.
+
+- git config user_name: se usa para configurar tu nombre, debes colocar el mismo de tu usuario en github
+
+- git config user_email: se usa para configurar el correo, debes colocar el mismo con el que accedes a tu cuenta en github.
+
+- git commit: Guardará los en el directorio y se agrega -m para colocar una descripción a dichos cambios.
+
+- git status: muestra una lista del estado de los archivos, los que se han modificado, los que han sido guardados o confirmados.
+
+- git push: envía la confirmación del archivo del repositorio local al repositorio remoto. "empuja" al archivo. Se coloca: git push origin master(el master se remplaza por el nombre de la rama.
+
+- git branch: Se usa para crear ramas. Se escribe: git branch nombre_de_la_rama.
+
+- git checkout: Se utiliza para moverte entre las ramas. Para cambiarte a otra rama el comando es: git checkout -b <nombre de la rama>
+
+- git pull: Se utiliza para obtener las actualizaciones del repositorio remoto en el repositorio local. 
+
+- git merge: se utiliza para fusionar ramas.
+
+- git log: se usa para ver el historial de cambios en el repositorio con los datos de ususario, fecha y hora.
+
+
+
