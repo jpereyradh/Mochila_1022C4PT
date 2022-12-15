@@ -4,12 +4,12 @@ https://padlet.com/PedagogiaDH/xj2z6h54nho9mo8h
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Consigna Direcciones IP ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-IP publica: 300.163.184.038
+IP publica: 240.163.184.038
 
-Dirección Privada: 163.176.1.27
+Dirección Privada: 154.346.1.45
 
 Máscara de subred: 255.255.255.0
 
 Servidor DHCP: 126.178.3.1
 
- Direccion fisica (MAC): aC-1A-22-33-1F-21
+ Direccion fisica (MAC): hC-9b-23-42-1F-32
