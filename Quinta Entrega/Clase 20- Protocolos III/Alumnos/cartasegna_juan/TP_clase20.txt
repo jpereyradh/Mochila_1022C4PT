@@ -1,0 +1,39 @@
+1 - En brave sin vpn: 180.90.200.150. Pais: Argentina
+
+2 - En opera con vpn: 77.111.246.10. Pais: Estados Unidos
+
+3 - En tor: 94.177.9.131. Pais: No indica
+
+4 - Las IP no son las mismas porque al usar la VPN nos cambia 
+la ubicación y al usar la red tor directamente es incapaz de 
+detectar una ubicación
+
+5 - Sin la VPN no puedo visualizarlo al video porque está
+restringido en mi país, pero con la VPN puedo verlo
+
+6 - Con tor no se puede localizar
+
+7 - Sin VPN:
+Ping: 8 ms
+Descarga: 213 mbps
+Subida: 206 mbps
+
+8 - Con VPN:
+Ping: 233 ms
+Descarga: 10 mbps
+Subida: 10 mbps
+
+9 - Con tor:
+Ping: 500 ms
+Descarga: 1 mbps
+Subida: 11 mbps
+
+10 - Son muy diferentes las velocidades debido a la serie de
+operaciones que realiza para llegar al destino donde se quiere
+acceder en internet
+
+11 - La velocidad de ping mide cuántos milisegundos (ms) tardan
+los dispositivos de red en "hablar" entre sí
+
+12 - Si varía porque el camino recorrido de navegación es
+diferente en cada caso
