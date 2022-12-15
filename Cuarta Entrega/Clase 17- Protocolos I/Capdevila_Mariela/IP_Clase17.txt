@@ -1,0 +1,6 @@
+Direccion IP publica 63.45.12.34
+Direccion IP privada y mascara subred 100.72.3.5 255.255.255.0
+direccion mac B4-B5-B6-E7-DF-91
+
+
+
